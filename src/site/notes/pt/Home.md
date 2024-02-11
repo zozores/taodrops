@@ -16,3 +16,9 @@ Estou há 9️⃣9️⃣9️⃣9️⃣ sites, blogs, flogs (agora denunciei a id
 # Notas Recentes
 
 # Seções
+
+## SRE e Amigos
+## Admirável Código Aberto
+## Na Minha Máquina Funciona!
+## Plantão do Zozô
+## Rolê Aleatório
