@@ -10,7 +10,9 @@ This is Thiago (Zozô) Ozores' chaotically organized salad of information and no
 
 But if by chance you got lost on the internet and ended up here, welcome!! and first of all, DON'T PANIC!
 
-I've been through 9️⃣9️⃣9️⃣9️⃣ websites, blogs, flogs (now I've given away my age), etc., trying to have some content here in cyberspace, so don't get angry.
+I've been through 9️⃣9️⃣9️⃣9️⃣ websites, blogs, flogs (now I've given away my age), etc., trying to have some content here in cyberspace, so patience.
+
+![yoda_patience.png](/img/user/assets/yoda_patience.png)
 
 # Recent Notes
 
