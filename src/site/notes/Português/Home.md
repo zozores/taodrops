@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portugues/home/","tags":["gardenEntry"]}
+{"dg-home":"true","dg-publish":true,"lang":"pt","permalink":"/portugues/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ![](/img/user/Português/assets/taokaos.png)
