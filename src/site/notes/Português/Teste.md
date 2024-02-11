@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"lang":"pt","permalink":"/portugues/teste/","dgPassFrontmatter":true}
+{"dg-publish":true,"lang":"en","permalink":"/portugues/teste/","dgPassFrontmatter":true}
 ---
 
 
