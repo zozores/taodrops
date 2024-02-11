@@ -66,6 +66,9 @@ function getAnchorAttributes(filePath, linkTitle) {
     if (frontMatter.data.noteIcon) {
       noteIcon = frontMatter.data.noteIcon;
     }
+    if (frontMatter.data.lang) {
+      lang = frontMatter.data.lang;
+    }
   } catch {
     deadLink = true;
   }
