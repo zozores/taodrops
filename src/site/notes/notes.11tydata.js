@@ -17,6 +17,9 @@ module.exports = {
       }
       return data.permalink || undefined;
     },
+    lang: (data) => {
+      return data.lang || "pt";
+    },
     settings: (data) => {
       const noteSettings = {};
       allSettings.forEach((setting) => {
