@@ -13,13 +13,12 @@ Estou há 9️⃣9️⃣9️⃣9️⃣ sites, blogs, flogs (agora denunciei a id
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvVPDX3R9ns?si=TEfBS7SFyU8Z6Ztb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Notas Recentes
+## 🗓️ Notas Recentes
 
-## Seções
+## 🏷️ Seções
 
-### SRE e Amigos
-### Admirável Código Aberto
-### Na Minha Máquina Funciona!
-### Plantão do Zozô
-### Rolê Aleatório
-### Foi tão doido, que eu não sei como classificar
+### 📈 👉 SRE e Amigos
+### 🧑🏻‍💻 👉 Admirável Código Aberto
+### 💻 👉 Na Minha Máquina Funciona!
+### 🗞️ 👉 Plantão do Zozô
+### 🔀 👉 Rolê Aleatório
