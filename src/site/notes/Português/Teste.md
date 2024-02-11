@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portugues/teste/","lang":"en"}
+{"dg-publish":true,"permalink":"/portugues/teste/"}
 ---
 
 
