@@ -18,7 +18,7 @@ module.exports = {
       return data.permalink || undefined;
     },
     lang: (data) => {
-      return data.lang || "pt";
+      return data.lang || undefined;
     },
     settings: (data) => {
       const noteSettings = {};
