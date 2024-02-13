@@ -1,6 +1,10 @@
 <div class="search-container" id="globalsearch" onclick="toggleSearch()">
     <div class="search-box">
+        {%- if "pt" in lang -%}
+        <input type="search" id="term" placeholder="Comece digitando algo...">
+        {%- else -%}
         <input type="search" id="term" placeholder="Start typing...">
+        {%- endif -%}
         <div id="search-results"></div>
         <footer class="search-box-footer">
             <div class="navigation-hint">
