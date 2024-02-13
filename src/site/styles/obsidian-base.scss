@@ -6673,6 +6673,14 @@ body {
   .cm-s-obsidian .hmd-fold-html a > img {
     border: 0;
   }
+
+  .cm-s-obsidian img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .cm-s-obsidian img.hmd-image {
     vertical-align: middle;
     width: auto;
