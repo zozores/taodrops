@@ -10,3 +10,8 @@
 This is perhaps the most fun section, where I'll share my labs and tests, meaning you'll see my entire disaster in action.
 
 ## 📒 Notes
+
+| 🔗 | 🕙 *created:* | 🕙 *updated:* |
+| -- | ------------- | ------------- |
+
+{ .block-language-dataview}
