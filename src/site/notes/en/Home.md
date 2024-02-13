@@ -8,6 +8,9 @@
 
 ## 🗓️ Recent Notes
 
+
+{ .block-language-dataview}
+
 ## 🏷️ Sections
 
 ### [[en/SRE and Friends/index\|>>> 📈 SRE and Friends]]
