@@ -25,7 +25,7 @@
 ## 👨 Quem sou eu?
 
 Eu sou Thiago (Zozô) Ozores, Site Reliability Engineer @ Itaú Unibanco e essa é a minha salada de informações e notas caoticamente organizadas, esta é uma nova roupa de um blog (mais isso não é mais um blog, é um [jardim digital](https://joelhooks.com/digital-garden) 🏡, nome muito mais chique por sinal 😁) que eu tive há muito tempo atrás que ninguém além de mim, leu e acredito que ninguém além de mim, lerá. 😂
-Mas se por acaso, você se perdeu nos caminhos da internet e caiu aqui, seja bem-vindo!! e antes de mais nada, NÃO ENTRE EM PÂNICO!
+Mas se por acaso, você se perdeu nos caminhos da internet e caiu aqui, seja bem-vindo!! e antes de mais nada, <mark style="background: #FF5582A6;">NÃO ENTRE EM PÂNICO!</mark>
 
 Estou há 9️⃣9️⃣9️⃣9️⃣ sites, blogs, flogs (agora denunciei a idade, forte 👴), etc, tentando ter um conteúdo aqui na ciberlândia, então paciência e:
 
