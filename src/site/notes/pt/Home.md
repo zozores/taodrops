@@ -14,7 +14,7 @@
 ### [[pt/Admiravel Codigo Aberto/index\|>>> 🧑🏻‍💻 Admirável Código Aberto]]
 ### [[pt/Na Minha Maquina Funciona/index\|>>> 💻 Na Minha Máquina Funciona!]]
 ### [[pt/O Deploy Diario/index\|>>> 🗞️ O Deploy Diário]]
-### >>> 👾 Jogos, Palavras e Vitrolas Modernas 
+### [[pt/Hora do Recreio/index\|>>> 🕹️ Hora do Recreio]]
 ### [[pt/DevRandom/index\|>>> 🔀 /dev/random]]
 
 
