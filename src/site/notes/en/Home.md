@@ -8,6 +8,7 @@
 
 ## 🗓️ Recent Notes
 
+- 🔗 [[en/SRE and Friends/Building multiarch images with Buildah\|Building multiarch images with Buildah]] 🏷️ SRE and Friends 🕙 *published:* 02/13/2024 11:11
 
 { .block-language-dataview}
 
