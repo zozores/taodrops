@@ -11,7 +11,8 @@ Here I talk about my work as ~~Sysadmin with Lasers~~ SRE with tips, tutorials a
 
 ## 📒 Notes
 
-| 🔗 | 🕙 *created:* | 🕙 *updated:* |
-| -- | ------------- | ------------- |
+| 🔗                                                                                                       | 🕙 *created:*    | 🕙 *updated:*    |
+| -------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- |
+| [[en/SRE and Friends/Building multiarch images with Buildah\|Building multiarch images with Buildah]] | 09/23/2023 07:00 | 02/13/2024 11:11 |
 
 { .block-language-dataview}
