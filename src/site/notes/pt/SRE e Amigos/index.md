@@ -11,8 +11,8 @@ Aqui eu falo sobre o meu trabalho como ~~Sysadmin com Lasers~~ SRE com dicas, tu
 
 ## 📒 Notas
 
-| 🔗                                  | 🕙 *criada em:*  | 🕙 *atualizada em:* |
-| ----------------------------------- | ---------------- | ------------------- |
-| [[pt/SRE e Amigos/Teste\|Teste]] | 13/02/2024 10:52 | 13/02/2024 10:53    |
+| 🔗                                                                                                                          | 🕙 *criada em:*  | 🕙 *atualizada em:* |
+| --------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------- |
+| [[pt/SRE e Amigos/Construindo imagens multiplataforma com o Buildah\|Construindo imagens multiplataforma com o Buildah]] | 22/09/2023 07:00 | 13/02/2024 11:07    |
 
 { .block-language-dataview}
