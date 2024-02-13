@@ -17,6 +17,7 @@
 ### >>> 👾 Jogos, Palavras e Vitrolas Modernas 
 ### [[pt/DevRandom/index\|>>> 🔀 /dev/random]]
 
+
 ## 👨 Quem sou eu?
 
 Eu sou Thiago (Zozô) Ozores, Site Reliability Engineer @ Itaú Unibanco e essa é a minha salada de informações e notas caoticamente organizadas, esta é uma nova roupa de um blog (mais isso não é mais um blog, é um [jardim digital](https://joelhooks.com/digital-garden) 🏡, nome muito mais chique por sinal 😁) que eu tive há muito tempo atrás que ninguém além de mim, leu e acredito que ninguém além de mim, lerá. 😂
