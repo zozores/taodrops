@@ -4,17 +4,29 @@
         <div id="search-results"></div>
         <footer class="search-box-footer">
             <div class="navigation-hint">
-                <span>Enter to select</span>
+                {%- if "pt" in lang -%}
+                <span>ENTER para selecionar</span>
+                {%- else -%}
+                <span>ENTER to select</span>
+                {%- endif -%}
             </div>
 
             <div class="navigation-hint align-icon">
                 <i  icon-name="arrow-up" aria-hidden="true"></i>
                 <i  icon-name="arrow-down" aria-hidden="true"></i>
+                {%- if "pt" in lang -%}
+                <span>para navegar</span>
+                {%- else -%}
                 <span>to navigate</span>
+                {%- endif -%}
             </div>
 
             <div class="navigation-hint">
+                {%- if "pt" in lang -%}
+                <span>ESC para sair</span>
+                {%- else -%}
                 <span>ESC to close</span>
+                {%- endif -%}
             </div>
 
         </footer>
