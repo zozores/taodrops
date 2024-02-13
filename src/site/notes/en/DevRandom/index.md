@@ -10,3 +10,8 @@
 Here I talk about literally anything that doesn't fit into the previous sections, prepare yourself for strong daydreams.
 
 ## 📒 Notes
+
+| 🔗 | 🕙 *created:* | 🕙 *updated:* |
+| -- | ------------- | ------------- |
+
+{ .block-language-dataview}
