@@ -8,7 +8,7 @@
 
 ## 🆕 Notas Recentes
 
-- 🔗 [[pt/SRE e Amigos/Teste\|Teste]] 🏷️ SRE e Amigos 🕙 *publicado em:* 13/02/2024 10:53
+- 🔗 [[pt/SRE e Amigos/Construindo imagens multiplataforma com o Buildah\|Construindo imagens multiplataforma com o Buildah]] 🏷️ SRE e Amigos 🕙 *publicado em:* 13/02/2024 11:07
 
 { .block-language-dataview}
 
