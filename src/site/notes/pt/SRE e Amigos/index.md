@@ -7,6 +7,6 @@
 🇺🇸 🇬🇧 [[en/SRE and Friends/index\|English]]
 # 📈 SRE e Amigos
 
-Aqui eu falo sobre o meu trabalho como ~~Sysadmin with Lasers~~ SRE com dicas, tutoriais e material para relembrar depois, porque a minha memória ultimamente tá mais para RAM do que para HD (dormiu, desligou, sumiu 😀)
+Aqui eu falo sobre o meu trabalho como ~~Sysadmin com Lasers~~ SRE com dicas, tutoriais e material para relembrar depois, porque a minha memória ultimamente tá mais para RAM do que para HD (dormiu, desligou, sumiu 😀)
 
 ## 📒 Notas
