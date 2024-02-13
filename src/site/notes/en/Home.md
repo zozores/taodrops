@@ -14,6 +14,13 @@ I've been through 9️⃣9️⃣9️⃣9️⃣ websites, blogs, flogs (now I've 
 
 ![yoda_patience.png](/img/user/assets/yoda_patience.png)
 
-# Recent Notes
+## 🗓️ Recent Notes
 
-# Sections
+## 🏷️ Labels
+
+### >>> 📈 SRE and Friends
+### >>> 🧑🏻‍💻 Brave Open Source
+### >>> 💻 In my machine, It works!
+### >>> 🗞️ The Daily Deploy
+### >>> 👾 Games, Words and Modern Walkmans
+### >>> 🔀 /dev/random
