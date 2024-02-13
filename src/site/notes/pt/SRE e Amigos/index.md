@@ -10,3 +10,9 @@
 Aqui eu falo sobre o meu trabalho como ~~Sysadmin com Lasers~~ SRE com dicas, tutoriais e material para relembrar depois, porque a minha memória ultimamente tá mais para RAM do que para HD (dormiu, desligou, sumiu 😀)
 
 ## 📒 Notas
+
+| 🔗                                  | 🕙 *criada em:*  | 🕙 *atualizada em:* |
+| ----------------------------------- | ---------------- | ------------------- |
+| [[pt/SRE e Amigos/Teste\|Teste]] | 13/02/2024 10:52 | 13/02/2024 10:53    |
+
+{ .block-language-dataview}
