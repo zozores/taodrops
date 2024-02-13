@@ -10,3 +10,8 @@
 Here I talk about my work as ~~Sysadmin with Lasers~~ SRE with tips, tutorials and material to remember later, because my memory lately is more RAM than HD (slept, turned off, disappeared 😀)
 
 ## 📒 Notes
+
+| 🔗 | 🕙 *created:* | 🕙 *updated:* |
+| -- | ------------- | ------------- |
+
+{ .block-language-dataview}
