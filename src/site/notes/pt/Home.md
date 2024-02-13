@@ -6,13 +6,11 @@
 
 🇺🇸 🇬🇧 [[en/Home\|English speaker? Come here]]
 
-
 ## 🆕 Notas Recentes
 
 - 🔗 [[pt/SRE e Amigos/Construindo imagens multiplataforma com o Buildah\|Construindo imagens multiplataforma com o Buildah]] 🏷️ SRE e Amigos 🕙 *publicado em:* 13/02/2024 11:07
 
 { .block-language-dataview}
-
 
 ## 🏷️ Seções
 
@@ -22,7 +20,6 @@
 ### [[pt/O Deploy Diario/index\|>>> 🗞️ O Deploy Diário]]
 ### [[pt/Hora do Recreio/index\|>>> 🕹️ Hora do Recreio]]
 ### [[pt/DevRandom/index\|>>> 🔀 /dev/random]]
-
 
 
 ## 👨 Quem sou eu?
