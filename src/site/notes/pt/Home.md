@@ -8,7 +8,6 @@
 
 ## 🆕 Notas Recentes
 
-- [[pt/SRE e Amigos/Teste\|Teste]]
 
 { .block-language-dataview}
 
