@@ -14,7 +14,7 @@
 ### >>> 🧑🏻‍💻 Brave Open Source
 ### >>> 💻 In my machine, It works!
 ### >>> 🗞️ The Daily Deploy
-### >>> 👾 Games, Words and Modern Walkmans
+### >>> 🕹️ Playtime
 ### >>> 🔀 /dev/random
 
 
