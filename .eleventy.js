@@ -426,7 +426,7 @@ module.exports = function (eleventyConfig) {
         />`
     }
     html += `<img
-      class="${cls.toString()}"
+      class="${cls.toString()} center"
       src="${src}"
       alt="${alt}"
       width="${width}"

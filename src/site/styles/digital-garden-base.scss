@@ -15,13 +15,13 @@ body {
 
 img {
     max-width: 100%;
+}
+
+img .center {
+    max-width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-img .no-center {
-    max-width: 100%;
 }
 
 .content {
