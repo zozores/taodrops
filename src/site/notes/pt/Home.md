@@ -8,6 +8,9 @@
 
 ## 🆕 Notas Recentes
 
+| Notas                               | Publicado em          | Seção           |
+| ----------------------------------- | --------------------- | --------------- |
+| [[pt/SRE e Amigos/Teste\|Teste]] | Tue 13 Feb 2024 10:17 | pt/SRE e Amigos |
 
 { .block-language-dataview}
 
