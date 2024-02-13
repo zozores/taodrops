@@ -10,3 +10,8 @@
 Aqui eu falo de jogos, filmes, música, livros e outras coisas que eu uso para relaxar da correria da vida.
 
 ## 📒 Notas
+
+| 🔗 | 🕙 *criada em:* | 🕙 *atualizada em:* |
+| -- | --------------- | ------------------- |
+
+{ .block-language-dataview}
