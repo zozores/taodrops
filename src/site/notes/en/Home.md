@@ -10,20 +10,19 @@
 
 ## 🏷️ Sections
 
-### >>> 📈 SRE and Friends
-### >>> 🧑🏻‍💻 Brave Open Source
-### >>> 💻 In my machine, It works!
-### >>> 🗞️ The Daily Deploy
-### >>> 🕹️ Playtime
-### >>> 🔀 /dev/random
+### [[en/SRE and Friends/index\|>>> 📈 SRE and Friends]]
+### [[en/Brave Open Source/index\|>>> 🧑🏻‍💻 Brave Open Source]]
+### [[en/In My Machine It Works/index\|>>> 💻 In My Machine, It Works!]]
+### [[en/The Daily Deploy/index\|>>> 🗞️ The Daily Deploy]]
+### [[en/Playtime/index\|>>> 🕹️ Playtime]]
+### [[en/DevRandom/index\|>>> 🔀 /dev/random]]
 
 
 ## 👨 Who Am I?
 
-This is Thiago (Zozô) Ozores' chaotically organized salad of information and notes. It's a new outfit for a blog (but this is not a blog anymore, it's a [digital garden](https://joelhooks.com/digital-garden) 🏡, which is a much fancier name, by the way 😁) that I had a long time ago that no one but me has read, and I believe no one but me will read. 😂
+I'm Thiago (Zozô) Ozores, Site Reliability Engineer @ Itaú Unibanco and this is my salad of information and notes chaotically organized, this is a new outfit of a blog (this is no longer a blog, it's a [digital garden](https://joelhooks.com/digital-garden) 🏡, much more chic name by the way 😁) that I had a long time ago that nobody but me, read and I believe that nobody but me, will read. 😂
+But if, by any chance, you've lost your way on the internet and landed here, welcome!!! and first of all, DON'T PANIC!
 
-But if by chance you got lost on the internet and ended up here, welcome!! and first of all, DON'T PANIC!
-
-I've been through 9️⃣9️⃣9️⃣9️⃣ websites, blogs, flogs (now I've given away my age), etc., trying to have some content here in cyberspace, so patience.
+I've been through 9️⃣9️⃣9️⃣9️⃣ websites, blogs, flogs, etc, trying to have some content here in cyberspace, so patience.
 
 ![yoda_patience.png](/img/user/assets/yoda_patience.png)
