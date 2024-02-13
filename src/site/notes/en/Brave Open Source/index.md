@@ -10,3 +10,8 @@
 Here I talk about Linux, Free Software and Open Source in General. Interesting open projects, tips, tutorials, reviews, etc. should be here.
 
 ## 📒 Notes
+
+| 🔗 | 🕙 *created:* | 🕙 *updated:* |
+| -- | ------------- | ------------- |
+
+{ .block-language-dataview}
