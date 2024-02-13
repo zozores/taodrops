@@ -17,6 +17,7 @@
 ### >>> 👾 Games, Words and Modern Walkmans
 ### >>> 🔀 /dev/random
 
+
 ## 👨 Who Am I?
 
 This is Thiago (Zozô) Ozores' chaotically organized salad of information and notes. It's a new outfit for a blog (but this is not a blog anymore, it's a [digital garden](https://joelhooks.com/digital-garden) 🏡, which is a much fancier name, by the way 😁) that I had a long time ago that no one but me has read, and I believe no one but me will read. 😂
