@@ -8,6 +8,10 @@
 
 ## 🆕 Notas Recentes
 
+- [[pt/SRE e Amigos/Teste\|Teste]]
+
+{ .block-language-dataview}
+
 ## 🏷️ Seções
 
 ### [[pt/SRE e Amigos/index\|>>> 📈 SRE e Amigos]]
