@@ -10,3 +10,8 @@
 Aqui eu falo de literalmente qualquer coisa que não se encaixa nas seções anteriores, preparem-se para fortes devaneios.
 
 ## 📒 Notas
+
+| 🔗 | 🕙 *criada em:* | 🕙 *atualizada em:* |
+| -- | --------------- | ------------------- |
+
+{ .block-language-dataview}
