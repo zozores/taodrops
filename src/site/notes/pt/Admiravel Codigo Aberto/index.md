@@ -10,3 +10,8 @@
 Aqui eu falo sobre Linux, Software Livre e Código Aberto em Geral, devem passar por aqui projetos abertos interessantes, dicas, tutoriais, reviews, etc. 
 
 ## 📒 Notas
+
+| 🔗 | 🕙 *criada em:* | 🕙 *atualizada em:* |
+| -- | --------------- | ------------------- |
+
+{ .block-language-dataview}
