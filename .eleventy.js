@@ -7,6 +7,7 @@ const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const embedEverything = require("eleventy-plugin-embed-everything");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
@@ -98,6 +99,7 @@ function getAnchorAttributes(filePath, linkTitle) {
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(embedEverything);
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
