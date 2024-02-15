@@ -1,4 +1,8 @@
 {%- if "pt" in lang -%}
+    {% set language = "pt" %}
+{% else %}
+    {% set language = "en" %}
+{% endif %}
 <script src="https://giscus.app/client.js"
         data-repo="zozores/taokaos-vault"
         data-repo-id="R_kgDOLRG3vg"
@@ -10,12 +14,7 @@
         data-emit-metadata="0"
         data-input-position="bottom"
         data-theme="dark"
-{%- if "pt" in lang -%}
-        data-lang="pt"
-{%- endif -%}
-{%- if "en" in lang -%}
-        data-lang="en"
-{%- endif -%}        
+        data-lang="{{ language }}"
         crossorigin="anonymous"
         async>
 </script>
