@@ -22,11 +22,13 @@ So let's get to the steps.
 
 - Installation of the `qemu-user-static` package (Ubuntu/RedHat) or `qemu-arch-extra` package (Arch Linux);
 
-`sudo dnf install -y buildah qemu-user-static` (Fedora and derivatives)
+```shell
+sudo dnf install -y buildah qemu-user-static #Fedora and derivatives
 
-`sudo apt-get install -y buildah qemu-user-static` (Ubuntu/Debian and derivatives)
+sudo apt-get install -y buildah qemu-user-static #Ubuntu/Debian and derivatives
 
-`pacman -Sy buildah qemu-arch-extra` (Arch Linux and derivatives)
+sudo pacman -Sy buildah qemu-arch-extra #Arch Linux and derivatives
+```
 ## Building the images
 
 The workflow you need to follow to build the images is as follows:
