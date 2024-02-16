@@ -2,8 +2,6 @@
 {"dg-home":"true","dg-publish":true,"lang":"pt","permalink":"/pt/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-![](/img/user/assets/taokaos.png)
-
 🇺🇸 🇬🇧 [[en/Home\|English speaker? Come here]]
 
 ## 🆕 Notas Recentes
