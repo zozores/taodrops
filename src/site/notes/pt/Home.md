@@ -2,6 +2,7 @@
 {"dg-home":"true","dg-publish":true,"lang":"pt","permalink":"/pt/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+🇺🇸 🇬🇧 [[en/Home\|English speaker? Come here]]
 ## 🆕 Notas Recentes
 
 - 🔗 [[pt/SRE e Amigos/Construindo imagens multiplataforma com o Buildah\|Construindo imagens multiplataforma com o Buildah]] 🏷️ SRE e Amigos 🕙 *publicado em:* 13/02/2024 11:07
