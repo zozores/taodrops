@@ -3,6 +3,7 @@
 {% elif "en" in lang %}
     {% set language = "en" %}
 {% endif %}
+{%- if not dg-home -%}
 <script src="https://giscus.app/client.js"
         data-repo="zozores/taokaos-vault"
         data-repo-id="R_kgDOLRG3vg"
@@ -18,3 +19,4 @@
         crossorigin="anonymous"
         async>
 </script>
+{% endif %}
