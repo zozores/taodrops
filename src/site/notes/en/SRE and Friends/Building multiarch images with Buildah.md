@@ -2,9 +2,7 @@
 {"dg-publish":true,"lang":"en","dg-created":"2023-09-23T19:00:00","dg-updated":"2024-02-13T11:11:00","permalink":"/en/sre-and-friends/building-multiarch-images-with-buildah/","dgPassFrontmatter":true,"created":"2023-09-23T19:00:00","updated":"2024-02-13T11:11:00"}
 ---
 
-[[en/Home\|Home]] >> [[en/SRE and Friends/index\|SRE and Friends]] >> Building multiarch images with Buildah
-
-🇧🇷 🇵🇹 [[pt/SRE e Amigos/Construindo imagens multiplataforma com o Buildah\|Versão em Português]]
+[[en/Home\|Home]] >> [[en/SRE and Friends/index\|SRE and Friends]] >> Building multiarch images with Buildah [[pt/SRE e Amigos/Construindo imagens multiplataforma com o Buildah\|🇧🇷]]
 
 ![buildah_logo.png|Logo from Buildah (a dog wearing a constructor hat), an icon representing the OCI (Open Container Initiative) standard and an icon representing a built container image](/img/user/assets/buildah_logo.png)
 # Building multiarch images with Buildah
