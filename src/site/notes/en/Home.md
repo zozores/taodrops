@@ -2,6 +2,7 @@
 {"dg-publish":true,"lang":"en","permalink":"/en/home/","dgPassFrontmatter":true}
 ---
 
+🇧🇷 🇵🇹 [[pt/Home\|Fala português? Venha aqui]]
 ## 🗓️ Recent Notes
 
 - 🔗 [[en/SRE and Friends/Building multiarch images with Buildah\|Building multiarch images with Buildah]] 🏷️ SRE and Friends 🕙 *published:* 02/13/2024 11:11
