@@ -2,8 +2,6 @@
 {"dg-publish":true,"lang":"en","permalink":"/en/home/","dgPassFrontmatter":true}
 ---
 
-![](/img/user/assets/taokaos.png)
-
 🇧🇷 🇵🇹 [[pt/Home\|Fala português? Venha aqui]]
 
 ## 🗓️ Recent Notes
