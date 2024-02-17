@@ -3,10 +3,10 @@
 {% elif "en" in lang %}
     {% set language = "en" %}
 {% endif %}
-{%- if "Home" not in title -%}
 {{ title }}
 {{ page.title }}
 {{ note.title }}
+{%- if "Home" not in title -%}
 <script src="https://giscus.app/client.js"
         data-repo="zozores/taokaos-vault"
         data-repo-id="R_kgDOLRG3vg"
