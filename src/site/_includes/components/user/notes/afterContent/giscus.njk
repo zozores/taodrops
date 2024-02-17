@@ -4,7 +4,7 @@
     {% set language = "en" %}
 {% endif %}
 {{ note.data.item.title }}
-{%- if "Home" not in title -%}
+{%- if title != "Home" -%}
 <script src="https://giscus.app/client.js"
         data-repo="zozores/taokaos-vault"
         data-repo-id="R_kgDOLRG3vg"
