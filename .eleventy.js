@@ -7,7 +7,6 @@ const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const embedEverything = require("eleventy-plugin-embed-everything");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
@@ -44,7 +43,6 @@ function getAnchorAttributes(filePath, linkTitle) {
     headerLinkPath = `#${headerToId(header)}`;
   }
 
-  let lang = "pt";
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
   let permalink = `/notes/${slugify(filePath)}`;
@@ -67,9 +65,6 @@ function getAnchorAttributes(filePath, linkTitle) {
     }
     if (frontMatter.data.noteIcon) {
       noteIcon = frontMatter.data.noteIcon;
-    }
-    if (frontMatter.data.lang) {
-      lang = frontMatter.data.lang;
     }
   } catch {
     deadLink = true;
@@ -99,7 +94,6 @@ function getAnchorAttributes(filePath, linkTitle) {
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPlugin(embedEverything);
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
