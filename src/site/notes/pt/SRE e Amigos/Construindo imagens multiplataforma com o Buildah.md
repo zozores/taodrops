@@ -5,7 +5,6 @@
 [[pt/Home\|Home]] >> [[pt/SRE e Amigos/index\|SRE e Amigos]] >> Construindo imagens multiplataforma com o Buildah [[en/SRE and Friends/Building multiarch images with Buildah\|🇬🇧]]
 
 ![buildah_logo.png|Logotipo do Buildah (um cachorro usando um chapéu de construtor), um ícone representando o padrão OCI (Open Container Initiative) e um ícone representando uma imagem de contêiner construída](/img/user/assets/buildah_logo.png)
-# Construindo imagens multiplataforma com o Buildah
 
 Com o crescimento e a popularização de outras plataformas além da amd64, principalmente a plataforma ARM, passa a ser uma preocupação de quem mantém imagens de containers, a construção destas voltados para estas plataformas também.
 
