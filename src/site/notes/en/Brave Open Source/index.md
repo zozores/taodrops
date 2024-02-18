@@ -11,7 +11,8 @@ Here I talk about Linux, Free Software and Open Source in General. Interesting o
 
 ## 📒 Notes
 
-| 🔗 | 🕙 *created:* | 🕙 *updated:* |
-| -- | ------------- | ------------- |
+| 🔗                                                                                             | 🕙 *created:*    | 🕙 *updated:*    |
+| ---------------------------------------------------------------------------------------------- | ---------------- | ---------------- |
+| [[en/Brave Open Source/CapRover - PaaS to call your own\|CapRover - PaaS to call your own]] | 02/18/2024 10:53 | 02/18/2024 05:50 |
 
 { .block-language-dataview}
