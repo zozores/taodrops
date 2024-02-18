@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"lang":"pt","dg-created":"2023-09-22T19:00:00","dg-updated":"2024-02-13T11:07:00","permalink":"/pt/sre-e-amigos/construindo-imagens-multiplataforma-com-o-buildah/","dgPassFrontmatter":true,"created":"2023-09-22T19:00:00","updated":"2024-02-13T11:07:00"}
+{"dg-publish":true,"lang":"pt","dg-created":"2023-09-22T19:00:00","dg-updated":"2024-02-13T11:07:00","tags":["docker","buildah","sre","multiarch"],"permalink":"/pt/sre-e-amigos/construindo-imagens-multiplataforma-com-o-buildah/","dgPassFrontmatter":true,"created":"2023-09-22T19:00:00","updated":"2024-02-13T11:07:00"}
 ---
 
 [[pt/Home\|Home]] >> [[pt/SRE e Amigos/index\|SRE e Amigos]] >> Construindo imagens multiplataforma com o Buildah [[en/SRE and Friends/Building multiarch images with Buildah\|🇬🇧]]
