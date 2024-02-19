@@ -4,8 +4,8 @@
 
 ## 🆕 Recent Notes
 
-- 🔗 [[en/Brave Open Source/CapRover - PaaS to call your own\|CapRover - PaaS to call your own]] 🏷️ Brave Open Source 🕙 *published:* 02/18/2024 05:50 PM
-- 🔗 [[en/SRE and Friends/Building multiarch images with Buildah\|Building multiarch images with Buildah]] 🏷️ SRE and Friends 🕙 *published:* 02/13/2024 11:11 AM
+- 🔗 [[en/Brave Open Source/CapRover - PaaS to call your own\|CapRover - PaaS to call your own]]
+- 🔗 [[en/SRE and Friends/Building multiarch images with Buildah\|Building multiarch images with Buildah]]
 
 { .block-language-dataview}
 
