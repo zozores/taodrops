@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"lang":"en","permalink":"/en/home/","dgPassFrontmatter":true}
+{"dg-publish":true,"lang":"en","dg-show-inline-title":"false","permalink":"/en/home/","dgShowInlineTitle":"false","dgPassFrontmatter":true}
 ---
 
 ## 🆕 Recent Notes
