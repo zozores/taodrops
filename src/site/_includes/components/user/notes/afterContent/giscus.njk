@@ -3,7 +3,8 @@
 {% elif "en" in lang %}
     {% set language = "en" %}
 {% endif %}
-{%- if page.fileSlug != "Home" and page.fileName != "index.md" -%}
+{{ page.filename }}
+{%- if page.fileSlug != "Home" -%}
 <script src="https://giscus.app/client.js"
         data-repo="zozores/taokaos-vault"
         data-repo-id="R_kgDOLRG3vg"
