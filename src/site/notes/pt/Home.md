@@ -4,8 +4,8 @@
 
 ## 🆕 Notas Recentes
 
-- 🔗 [[pt/Admiravel Codigo Aberto/CapRover - Um PaaS para chamar de seu\|CapRover - Um PaaS para chamar de seu]]
-- 🔗 [[pt/SRE e Amigos/Construindo imagens multiplataforma com o Buildah\|Construindo imagens multiplataforma com o Buildah]]
+- ### 🔗 [[pt/Admiravel Codigo Aberto/CapRover - Um PaaS para chamar de seu\|CapRover - Um PaaS para chamar de seu]]
+- ### 🔗 [[pt/SRE e Amigos/Construindo imagens multiplataforma com o Buildah\|Construindo imagens multiplataforma com o Buildah]]
 
 { .block-language-dataview}
 
