@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"lang":"en","permalink":"/en/playtime/index/","dgPassFrontmatter":true}
+{"dg-publish":true,"lang":"en","dg-show-inline-title":"false","permalink":"/en/playtime/index/","dgShowInlineTitle":"false","dgPassFrontmatter":true}
 ---
 
-[[en/Home\|Home]] >> Playtime
+[[en/Home\|Home]] >> Playtime [[pt/Hora do Recreio/index\|🇧🇷]]
 
-🇧🇷 🇵🇹 [[pt/Hora do Recreio/index\|Português]]
 # 🕹️ Playtime
 
 Here I talk about games, movies, music, books and other things that I consume to relax from the rush of life.
