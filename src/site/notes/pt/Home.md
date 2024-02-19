@@ -9,14 +9,14 @@
 
 { .block-language-dataview}
 
-## 🏷️ Seções
+## ⬇️ Seções
 
-### [[pt/SRE e Amigos/index\|>>> 📈 SRE e Amigos]]
-### [[pt/Admiravel Codigo Aberto/index\|>>> 🧑🏻‍💻 Admirável Código Aberto]]
-### [[pt/Na Minha Maquina Funciona/index\|>>> 💻 Na Minha Máquina Funciona!]]
-### [[pt/O Deploy Diario/index\|>>> 🗞️ O Deploy Diário]]
-### [[pt/Hora do Recreio/index\|>>> 🕹️ Hora do Recreio]]
-### [[pt/DevRandom/index\|>>> 🔀 /dev/random]]
+### 📈 [[pt/SRE e Amigos/index\|SRE e Amigos]]
+### 🧑🏻‍💻 [[pt/Admiravel Codigo Aberto/index\|Admirável Código Aberto]]
+### 💻 [[pt/Na Minha Maquina Funciona/index\|Na Minha Máquina Funciona!]]
+### 🗞️ [[pt/O Deploy Diario/index\|O Deploy Diário]]
+### 🕹️ [[pt/Hora do Recreio/index\|Hora do Recreio]]
+### 🔀 [[pt/DevRandom/index\|/dev/random]]
 
 
 ## 👨 Quem sou eu?
