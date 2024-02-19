@@ -3,8 +3,8 @@
 {% elif "en" in lang %}
     {% set language = "en" %}
 {% endif %}
-{{ fileName }}
-{%- if page.fileSlug != "Home" -%}
+{{ permalink }}
+{%- if page.fileSlug != "Home" and "index" not in permalink -%}
 <script src="https://giscus.app/client.js"
         data-repo="zozores/taokaos-vault"
         data-repo-id="R_kgDOLRG3vg"
