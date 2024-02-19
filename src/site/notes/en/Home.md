@@ -9,14 +9,14 @@
 
 { .block-language-dataview}
 
-## 🏷️ Sections
+## ⬇️ Sections
 
-### [[en/SRE and Friends/index\|>>> 📈 SRE and Friends]]
-### [[en/Brave Open Source/index\|>>> 🧑🏻‍💻 Brave Open Source]]
-### [[en/In My Machine It Works/index\|>>> 💻 In My Machine, It Works!]]
-### [[en/The Daily Deploy/index\|>>> 🗞️ The Daily Deploy]]
-### [[en/Playtime/index\|>>> 🕹️ Playtime]]
-### [[en/DevRandom/index\|>>> 🔀 /dev/random]]
+### 📈 [[en/SRE and Friends/index\|SRE and Friends]]
+### 🧑🏻‍💻 [[en/Brave Open Source/index\|Brave Open Source]]
+### 💻 [[en/In My Machine It Works/index\|In My Machine, It Works!]]
+### 🗞️ [[en/The Daily Deploy/index\|The Daily Deploy]]
+### 🕹️ [[en/Playtime/index\|Playtime]]
+### 🔀 [[en/DevRandom/index\|/dev/random]]
 
 
 ## 👨 Who Am I?
