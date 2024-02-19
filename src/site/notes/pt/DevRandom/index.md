@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"lang":"pt","permalink":"/pt/dev-random/index/","dgPassFrontmatter":true}
+{"dg-publish":true,"lang":"pt","dg-show-inline-title":"false","permalink":"/pt/dev-random/index/","dgShowInlineTitle":"false","dgPassFrontmatter":true}
 ---
 
-[[pt/Home\|Home]] >> /dev/random
+[[pt/Home\|Home]] >> /dev/random [[en/DevRandom/index\|🇬🇧]]
 
-🇺🇸 🇬🇧 [[en/DevRandom/index\|English]]
 # 🔀 /dev/random
 
 Aqui eu falo de literalmente qualquer coisa que não se encaixa nas seções anteriores, preparem-se para fortes devaneios.
