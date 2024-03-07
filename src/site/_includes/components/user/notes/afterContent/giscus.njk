@@ -1,6 +1,6 @@
-{%- if "pt" in lang -%}
+{%- if lang === "pt" -%}
     {% set language = "pt" %}
-{% elif "en" in lang %}
+{% elif lang === "en" %}
     {% set language = "en" %}
 {% endif %}
 {%- if page.fileSlug != "Home" and "index" not in permalink -%}
